@@ -1,4 +1,4 @@
-const CACHE = 'taskboard-v8';
+const CACHE = 'taskboard-v9';
 const ASSETS = ['./index.html', './manifest.json', './icon-192.png', './icon-512.png'];
 
 self.addEventListener('install', e => {
